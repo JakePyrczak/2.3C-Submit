@@ -1,0 +1,44 @@
+{
+    "projects":[
+        {
+            "id": 1,
+            "title": "Project 1"
+        },
+        {
+            "id": 2,
+            "title": "Project 2"
+        }
+    ],
+    "comments":[
+        {
+            "userName": "<span style='color: red'>CoolCat123</span>",
+            "id": 1,
+            "time": "17 April - 20:23",
+            "body": "Great post! I learned a lot from this. Keep up the good work!"
+          },
+          {
+            "userName": "<span style='color: green'>StarGazer99</span>",
+            "id": 2,
+            "time": "13 April - 10:23",
+            "body": "This is amazing! I've never thought about it this way. Thanks for sharing your perspective."
+          },
+          {
+            "userName": "<span style='color: blue'>TechNerd42</span>",
+            "id": 3,
+            "time": "7 April - 2:23",
+            "body": "Very informative. I appreciate the detailed explanation. Looking forward to more content like this!"
+          },
+          {
+            "userName": "<span style='color: orange'>AdventureSeeker</span>",
+            "id": 4,
+            "time": "27 April - 22:23",
+            "body": "I have a question: How did you come up with this idea? It's brilliant! I'm inspired to try something similar."
+          },
+          {
+            "userName": "<span style='color: gold'>BookWorm123</span>",
+            "id": 5,
+            "time": "17 April - 20:23",
+            "body": "As a fellow book lover, I completely relate to your post. Reading is indeed a magical escape. Well said!"
+          }
+        ]
+}
